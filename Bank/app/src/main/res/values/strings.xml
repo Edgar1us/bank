@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Ir">Ir</string>
+    <string name="menu">Menu</string>
+    <string name="posicion">Posicion Global</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="promociones">Promociones</string>
+    <string name="cajerosCercanos">Cajeros</string>
+    <string name="cambiarClave">Cambiar clave</string>
+    <string name="transferencias">Transferencias</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="realizar_transferencia">Transferencias</string>
+    <string name="cuenta_origen">Cuenta origen</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
